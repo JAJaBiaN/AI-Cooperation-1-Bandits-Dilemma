@@ -1,0 +1,10 @@
+Bandit 0 learning type: eGreedy
+	e_0 is set as: 0.15
+Bandit 1 learning type: Optimal
+
+Number of timesteps per run: 200
+Number of runs: 100
+
+Payoff matrix:
+	[-1 -1] | [-3  0]
+	[ 0 -3] | [-2 -2]
